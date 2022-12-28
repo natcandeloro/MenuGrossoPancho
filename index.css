@@ -1,0 +1,45 @@
+nav {
+    background-color: #d3d3d3;
+    display: flex;
+}
+
+body {
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.centrar {
+    text-align: center;
+}
+
+img {
+    border-radius: 52%;
+    padding: 10px;
+}
+
+footer {
+    padding: 30px;
+    background-color: #d3d3d3;
+}
+
+i {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+.blockquote {
+    font-size: 1.1rem;
+}
+
+a {
+    color: #424242;
+}
