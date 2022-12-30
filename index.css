@@ -20,7 +20,7 @@ img {
 }
 
 footer {
-    padding: 30px;
+    padding: 10px;
     background-color: #d3d3d3;
 }
 
@@ -42,4 +42,13 @@ h3 {
 
 a {
     color: #424242;
+    text-decoration: none;
+}
+
+.diseño { 
+    background-color: #9e9e9e;
+    width: 100%;
+    color: antiquewhite;
+    text-align: right;
+    padding: 5px;
 }
